@@ -1,9 +1,9 @@
 # About_me
 Aspiring VLSI Design Engineer | Verilog HDL | RTL Design | Functional Verification | Digital Electronics | Cadence Xcelium
-# Hi there, I'm Thirsa K 👋 --MYOVERALLEDA--https://www.edaplayground.com/user/983045
+# Hi there, I'm Thirsa K 👋 
 
 ### Aspiring VLSI Design Engineer | Electronics & Communication Engineering Student
-
+MY EDA PLAYGROUND LINK - https://www.edaplayground.com/user/983045
 Welcome to my GitHub! I'm a passionate Electronics and Communication Engineering student with a strong interest in **VLSI Design**, **Digital Electronics**, and **Semiconductor Technology**. I enjoy learning how digital systems are designed, verified, and optimized, and I'm committed to building a strong foundation in hardware design and verification.
 
 My academic journey has helped me develop practical skills in **Verilog HDL**, **RTL Design**, and **Functional Verification** using **Cadence Xcelium**. I enjoy solving engineering problems, exploring new technologies, and applying theoretical concepts through hands-on projects. Every project I work on helps me strengthen my understanding of digital design methodologies and industry-standard design practices.
